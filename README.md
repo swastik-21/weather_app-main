@@ -14,7 +14,7 @@ A simple weather application that allows users to check the current weather cond
 
 ## Demo
 
-https://sharada-marasinha.github.io/Weather_App/
+https://github.com/swastik-21/weather_app-main/tree/main
 
 ![Weather App Screenshot](screenshots/screenshot.png)
 
@@ -38,7 +38,7 @@ To get a copy of this project up and running on your local machine, follow these
 1. Clone the repository:
 
     ```bash
-    https://github.com/sharada-marasinha/Weather_App.git
+    https://github.com/swastik-21/weather_app-main.git
     ```
 
 2. Open the project folder:
